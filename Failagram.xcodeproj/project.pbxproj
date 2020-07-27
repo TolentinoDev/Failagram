@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		942A9D1724CE3031002BBF21 /* Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942A9D1624CE3031002BBF21 /* Grid.swift */; };
+		942A9D1924CE3DBD002BBF21 /* MultilineTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942A9D1824CE3DBD002BBF21 /* MultilineTextView.swift */; };
 		94BDC78D24C912000052C33F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BDC78C24C912000052C33F /* AppDelegate.swift */; };
 		94BDC78F24C912000052C33F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BDC78E24C912000052C33F /* SceneDelegate.swift */; };
 		94BDC79124C912000052C33F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BDC79024C912000052C33F /* ContentView.swift */; };
@@ -42,6 +44,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		942A9D1624CE3031002BBF21 /* Grid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grid.swift; sourceTree = "<group>"; };
+		942A9D1824CE3DBD002BBF21 /* MultilineTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultilineTextView.swift; sourceTree = "<group>"; };
 		94BDC78924C912000052C33F /* Failagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Failagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94BDC78C24C912000052C33F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		94BDC78E24C912000052C33F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -168,6 +172,7 @@
 			isa = PBXGroup;
 			children = (
 				94BDC7BE24C913450052C33F /* ExplorePage.swift */,
+				942A9D1624CE3031002BBF21 /* Grid.swift */,
 			);
 			path = Explore;
 			sourceTree = "<group>";
@@ -185,6 +190,7 @@
 			isa = PBXGroup;
 			children = (
 				94BDC7C224C913E00052C33F /* PostingPage.swift */,
+				942A9D1824CE3DBD002BBF21 /* MultilineTextView.swift */,
 			);
 			path = Posting;
 			sourceTree = "<group>";
@@ -329,9 +335,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				94BDC7C724C9142E0052C33F /* ProfilePage.swift in Sources */,
+				942A9D1924CE3DBD002BBF21 /* MultilineTextView.swift in Sources */,
 				94BDC7C324C913E00052C33F /* PostingPage.swift in Sources */,
 				94BDC78D24C912000052C33F /* AppDelegate.swift in Sources */,
 				94BDC78F24C912000052C33F /* SceneDelegate.swift in Sources */,
+				942A9D1724CE3031002BBF21 /* Grid.swift in Sources */,
 				94BDC79124C912000052C33F /* ContentView.swift in Sources */,
 				94BDC7C124C913860052C33F /* SettingsPage.swift in Sources */,
 				94BDC7C524C913FD0052C33F /* NotificationPage.swift in Sources */,
