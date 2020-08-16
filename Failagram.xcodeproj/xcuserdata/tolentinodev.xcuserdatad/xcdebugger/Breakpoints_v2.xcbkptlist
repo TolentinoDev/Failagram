@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B54F8E63-FCA5-4DED-A60F-A6541CD79804"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "113A6C8B-5A5F-4BFD-B03A-C71624E51AAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Explore/ExplorePage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ExploreView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "113A6C8B-5A5F-4BFD-B03A-C71624E51AAA - 84515fede228578b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Failagram.ExploreView.isSearching : Swift.Bool"
+                  moduleName = "Failagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tolentinodev/Documents/GitHub/Failagram/Failagram/Explore/ExplorePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "113A6C8B-5A5F-4BFD-B03A-C71624E51AAA - fa352c733ca0e2bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Failagram.ExploreView.isSearching.getter : Swift.Bool"
+                  moduleName = "Failagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tolentinodev/Documents/GitHub/Failagram/Failagram/Explore/ExplorePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "113A6C8B-5A5F-4BFD-B03A-C71624E51AAA - 3fada170f41f8b41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Failagram.ExploreView.isSearching.setter : Swift.Bool"
+                  moduleName = "Failagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tolentinodev/Documents/GitHub/Failagram/Failagram/Explore/ExplorePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "113A6C8B-5A5F-4BFD-B03A-C71624E51AAA - fef001a75ca084b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Failagram.ExploreView.isSearching.modify : Swift.Bool"
+                  moduleName = "Failagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tolentinodev/Documents/GitHub/Failagram/Failagram/Explore/ExplorePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  uuid = "113A6C8B-5A5F-4BFD-B03A-C71624E51AAA - bde0ad2c4c54bf41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Failagram.ExploreView.isSearching.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Failagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tolentinodev/Documents/GitHub/Failagram/Failagram/Explore/ExplorePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "113A6C8B-5A5F-4BFD-B03A-C71624E51AAA - 350a24d08640a0f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Failagram.ExploreView.$isSearching.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "Failagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tolentinodev/Documents/GitHub/Failagram/Failagram/Explore/ExplorePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "113A6C8B-5A5F-4BFD-B03A-C71624E51AAA - 7649c26ea385762f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Failagram.ExploreView.init() -&gt; Failagram.ExploreView"
+                  moduleName = "Failagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tolentinodev/Documents/GitHub/Failagram/Failagram/Explore/ExplorePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
